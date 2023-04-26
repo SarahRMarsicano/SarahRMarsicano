@@ -23,7 +23,4 @@ Be very welcome to my page. 🤖
 
 <img align="center" alt="Rafa-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
  
-<div align="center">
-<img src="https://forbes.com.br/wp-content/uploads/2021/09/ForbesTech_robo-humanoide_Andriy-Onufriyenko_Getty-Images.png) width="700px" />
-</div>
 
